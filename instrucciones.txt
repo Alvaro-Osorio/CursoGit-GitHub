@@ -1,0 +1,1 @@
+Leer el archivo para obtener información del sistema.
